@@ -1,6 +1,4 @@
-# [NASA Mission Control Project](http://3.92.163.234:8000/)
-
-## [Click here to view the website](http://3.92.163.234:8000/)
+# NASA Mission Control Project
 
 ## Getting Started
 
